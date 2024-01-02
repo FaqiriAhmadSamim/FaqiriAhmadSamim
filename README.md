@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Faqiri Ahmad Samim
+- I’m interested in Machine Learning and Deep Learning
+- I’m currently learning streamlit and Flask for deploying machine learning or Deep learning Projects
+- a.samim.faqiri@gmail.com
